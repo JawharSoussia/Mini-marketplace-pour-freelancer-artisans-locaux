@@ -9,13 +9,13 @@ Mini-marketplace-pour-freelancer-artisans-locaux   YohaTech
    cd Mini-marketplace-pour-freelancer-artisans-locaux
 2. Install dependencies:   
    ```bash
- npm install
+   npm install
 
 3.Start the app:
    ```bash
-npm start
+   npm start
 
-## Demo
+###Demo
 [![Watch the demo](https://github.com/user-attachments/assets/3ac71d45-7c5f-4747-84c5-c5cc31feb32e)
 
 ## Screenshots
