@@ -7,9 +7,12 @@ Mini-marketplace-pour-freelancer-artisans-locaux   YohaTech
    ```bash
    git clone https://github.com/JawharSoussia/Mini-marketplace-pour-freelancer-artisans-locaux.git
    cd Mini-marketplace-pour-freelancer-artisans-locaux
-2. Install dependencies:
+2. Install dependencies:   
+   ```bash
  npm install
+
 3.Start the app:
+   ```bash
 npm start
 
 ## Demo
