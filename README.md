@@ -11,7 +11,7 @@ Mini-marketplace-pour-freelancer-artisans-locaux   YohaTech
    ```bash
    npm install
 
-3.Start the app:
+3. Start the app:
    ```bash
    npm start
 
